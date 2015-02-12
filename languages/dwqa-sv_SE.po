@@ -31,11 +31,11 @@ msgstr "Lägg till ny fråga"
 
 #: ../dw-question-answer.php:65
 msgid "Edit Question"
-msgstr "Redigera Fråga"
+msgstr "Redigera fråga"
 
 #: ../dw-question-answer.php:66 ../inc/settings.php:971
 msgid "New Question"
-msgstr "Ny Fråga"
+msgstr "Ny fråga"
 
 #: ../dw-question-answer.php:67
 msgid "All Questions"
@@ -43,23 +43,23 @@ msgstr "Alla frågor"
 
 #: ../dw-question-answer.php:68
 msgid "View Question"
-msgstr "Se Fråga"
+msgstr "Se fråga"
 
 #: ../dw-question-answer.php:69
 msgid "Search Question"
-msgstr "Sök Fråga"
+msgstr "Sök fråga"
 
 #: ../dw-question-answer.php:70
 msgid "No questions found"
-msgstr "Inga frågor funna"
+msgstr "Inga frågor hittades"
 
 #: ../dw-question-answer.php:71
 msgid "No questions found in Trash"
-msgstr "Inga frågor som finns i papperskorgen"
+msgstr "Inga frågor finns i papperskorgen"
 
 #: ../dw-question-answer.php:73
 msgid "DW Q&A"
-msgstr "DW Q & A"
+msgstr "DW Frågor & Svar"
 
 #: ../dw-question-answer.php:105 ../dw-question-answer.php:106
 #: ../dw-question-answer.php:117 ../dw-question-answer.php:534
@@ -69,7 +69,7 @@ msgstr "Svar"
 
 #: ../dw-question-answer.php:108
 msgid "Add new answer"
-msgstr "Lägg nya svar"
+msgstr "Lägg till ett nytt svar"
 
 #: ../dw-question-answer.php:109
 msgid "Edit answer"
@@ -77,7 +77,7 @@ msgstr "Redigera svar"
 
 #: ../dw-question-answer.php:110 ../inc/settings.php:972
 msgid "New Answer"
-msgstr "Nya Svar"
+msgstr "Nytt svar"
 
 #: ../dw-question-answer.php:111
 msgid "All Answers"
@@ -97,7 +97,7 @@ msgstr "Inga svar hittades"
 
 #: ../dw-question-answer.php:115
 msgid "No Answers found in Trash"
-msgstr "Inga svar funna i papperskorgen"
+msgstr "Inga svar hittades i papperskorgen"
 
 #: ../dw-question-answer.php:147
 msgctxt "taxonomy general name"
@@ -143,12 +143,12 @@ msgstr "Nytt kategorinamn"
 
 #: ../dw-question-answer.php:157
 msgid "Question Categories"
-msgstr "Fråge Kategorier"
+msgstr "Frågekategorier"
 
 #: ../dw-question-answer.php:174
 msgctxt "taxonomy general name"
 msgid "Tags"
-msgstr "Taggar"
+msgstr "Etiketter"
 
 #: ../dw-question-answer.php:175
 msgctxt "taxonomy singular name"
@@ -157,31 +157,31 @@ msgstr "Etikett"
 
 #: ../dw-question-answer.php:176
 msgid "Search Tags"
-msgstr "Sökandet märker"
+msgstr "Sök etiketter"
 
 #: ../dw-question-answer.php:177
 msgid "Popular Tags"
-msgstr "Popular Tags"
+msgstr "Populära etiketter"
 
 #: ../dw-question-answer.php:178
 msgid "All Tags"
-msgstr "Alla taggar"
+msgstr "Alla etiketter"
 
 #: ../dw-question-answer.php:181
 msgid "Edit Tag"
-msgstr "Redigera tag"
+msgstr "Redigera etikett"
 
 #: ../dw-question-answer.php:182
 msgid "Update Tag"
-msgstr "Uppdatera Etikett"
+msgstr "Uppdatera etikett"
 
 #: ../dw-question-answer.php:183
 msgid "Add New Tag"
-msgstr "Lägg till nya tag"
+msgstr "Lägg till nya etiketter"
 
 #: ../dw-question-answer.php:184
 msgid "New Tag Name"
-msgstr "Nya Tag Name"
+msgstr "Nytt etikettnamn"
 
 #: ../dw-question-answer.php:185
 msgid "Separate tags with commas"
@@ -189,16 +189,16 @@ msgstr "Skilj sökord med kommatecken"
 
 #: ../dw-question-answer.php:186
 msgid "Add or remove tags"
-msgstr "Lägg till eller ta bort taggar"
+msgstr "Lägg till eller ta bort etiketter"
 
 #: ../dw-question-answer.php:187
 msgid "Choose from the most used tags"
-msgstr "Välj bland de mest använda taggar"
+msgstr "Välj bland de mest använda etiketterna"
 
 #: ../dw-question-answer.php:188
 #: ../inc/templates/default/question-submit-form.php:36
 msgid "Question Tags"
-msgstr "Fråge Taggar"
+msgstr "Frågeetiketter"
 
 #: ../dw-question-answer.php:233 ../dw-question-answer.php:476
 #: ../inc/filter.php:83 ../inc/templates/default/navigation-archive.php:70
@@ -212,11 +212,11 @@ msgstr "Föregående"
 
 #: ../dw-question-answer.php:236 ../dw-question-answer.php:479
 msgid "Please enter your question"
-msgstr "Ange din fråga"
+msgstr "Skriv din fråga"
 
 #: ../dw-question-answer.php:237
 msgid "Your question must be at least 2 characters in length"
-msgstr "Din fråga måste vara minst 2 tecken långt"
+msgstr "Din fråga måste vara minst 2 tecken lång"
 
 #: ../dw-question-answer.php:238
 msgid "Enter a valid email address"
@@ -224,7 +224,7 @@ msgstr "Ange en giltig e-postadress"
 
 #: ../dw-question-answer.php:239
 msgid "Enter a question title"
-msgstr "Skriv en fråga titel"
+msgstr "Skriv en titel för frågan"
 
 #: ../dw-question-answer.php:240
 msgid "Please add your name"
@@ -232,12 +232,12 @@ msgstr "Vänligen lägg till ditt namn"
 
 #: ../dw-question-answer.php:241 ../dw-question-answer.php:480
 msgid "Please enter your answer"
-msgstr "Ange ditt svar"
+msgstr "Skriv ditt svar"
 
 #: ../dw-question-answer.php:242 ../dw-question-answer.php:481
 #: ../inc/actions.php:970
 msgid "Please enter your comment content"
-msgstr "Ange din kommentar innehåll"
+msgstr "Skriv din kommentar"
 
 #: ../dw-question-answer.php:243 ../dw-question-answer.php:482
 msgid "Comment must have more than 2 characters"
@@ -295,15 +295,15 @@ msgstr "Ångra"
 
 #: ../dw-question-answer.php:256
 msgid "This answer will be marked as spam and hidden. Do you want to flag it?"
-msgstr "Detta svar kommer att markeras som spam och dolda. Vill du flagga det?"
+msgstr "Detta svar kommer att markeras som spam och döljas. Vill du flagga det?"
 
 #: ../dw-question-answer.php:257
 msgid "This answer was flagged as spam. Do you want to show it"
-msgstr "Detta svar var flaggas som skräppost. Vill du visa det"
+msgstr "Detta svar blev flaggat som skräppost. Vill du visa det?"
 
 #: ../dw-question-answer.php:258
 msgid "This answer was flagged as spam"
-msgstr "Detta svar var flaggat som skräppost"
+msgstr "Detta svar blev flaggat som skräppost"
 
 #: ../dw-question-answer.php:259 ../dw-question-answer.php:493
 msgid "hide"
@@ -340,35 +340,35 @@ msgstr "DWQA Frågor"
 
 #: ../dw-question-answer.php:301
 msgid "DWQA Ask Question"
-msgstr "DWQA fråga"
+msgstr "DWQA fråga en fråga"
 
 #: ../dw-question-answer.php:396
 #, php-format
 msgid "%s second"
 msgid_plural "%s seconds"
-msgstr[0] "%s andra"
-msgstr[1] "%s andra"
+msgstr[0] "%s sekund"
+msgstr[1] "%s sekunder"
 
 #: ../dw-question-answer.php:405
 #, php-format
 msgid "about %s min"
 msgid_plural "%s mins"
-msgstr[0] "för %s min"
-msgstr[1] "för %s min"
+msgstr[0] "cirka %s min"
+msgstr[1] "cirka %s min"
 
 #: ../dw-question-answer.php:411
 #, php-format
 msgid "about %s hour"
 msgid_plural "%s hours"
-msgstr[0] "för %s timme"
-msgstr[1] "för %s timme"
+msgstr[0] "cirka %s timme"
+msgstr[1] "cirka %s timme"
 
 #: ../dw-question-answer.php:417
 #, php-format
 msgid "%s day"
 msgid_plural "%s days"
 msgstr[0] "%s dag"
-msgstr[1] "%s dag"
+msgstr[1] "%s dagar"
 
 #: ../dw-question-answer.php:421
 #, php-format
@@ -383,18 +383,17 @@ msgstr "Flagga"
 #: ../dw-question-answer.php:490
 #: ../inc/templates/default/content-answer.php:41
 msgid "Unflag"
-msgstr "Bort flagga"
+msgstr "Ta bort flaggning"
 
 #: ../dw-question-answer.php:491
 msgid ""
 "This answer will be hidden when flagged. Are you sure you want to flag it?"
 msgstr ""
-"Detta svar kommer att döljas när flaggas. Är du säker på att du vill flagga "
-"det?"
+"Detta svar kommer att döljas om det har flaggats. Är du säker på att du vill flagga det?"
 
 #: ../dw-question-answer.php:492
 msgid "This answer was flagged as spam. Do you want to show it?"
-msgstr "Detta svar var flaggas som skräppost. Vill du visa det?"
+msgstr "Detta svar blev flaggat som skräppost. Vill du visa det?"
 
 #: ../dw-question-answer.php:535 ../inc/class-answers-list-table.php:81
 msgid "Author"
@@ -478,7 +477,7 @@ msgstr "%s frågade <span class=\"dwqa-date\">%s</ span>"
 
 #: ../inc/actions-vote.php:6
 msgid "Are you cheating, huh?"
-msgstr "Är du otrogen, va?"
+msgstr "Du fuskar, va?"
 
 #: ../inc/actions-vote.php:19
 msgid "What "
@@ -486,7 +485,7 @@ msgstr "Vadå "
 
 #: ../inc/actions-vote.php:47
 msgid "You voted for this "
-msgstr "Du röstade för detta "
+msgstr "Du röstade på detta "
 
 #: ../inc/actions.php:50
 msgid "Delete draft"
@@ -524,11 +523,11 @@ msgstr "Detta inlägg är inte ett svar"
 #: ../inc/actions.php:673 ../inc/actions.php:691 ../inc/actions.php:1401
 #: ../inc/filter.php:425 ../inc/status.php:287
 msgid "Are you cheating huh?"
-msgstr "Är du otrogen va?"
+msgstr "Du fuskar, eller hur?"
 
 #: ../inc/actions.php:250
 msgid "Missing answer ID"
-msgstr "Missing answer ID"
+msgstr "Svars-ID saknas"
 
 #: ../inc/actions.php:371
 msgid "User Registration was disabled."
@@ -544,23 +543,23 @@ msgstr "Detta användarnamn är redan registrerad. Var vänlig använd ett annat
 
 #: ../inc/actions.php:577
 msgid "You do not have permission to edit question status"
-msgstr "Du har inte behörighet att redigera frågan status"
+msgstr "Du har inte behörighet att redigera frågans status"
 
 #: ../inc/actions.php:644
 msgid "Comment is missing"
-msgstr "Kommentera saknas"
+msgstr "Kommentar saknas"
 
 #: ../inc/actions.php:654
 msgid "Comment content must not be empty."
-msgstr "Kommentera halten inte vara tomt."
+msgstr "Kommentaren får inte vara tom."
 
 #: ../inc/actions.php:678
 msgid "Comment ID must be showed."
-msgstr "Kommentar ID måste visade."
+msgstr "Kommentarens ID måste visas."
 
 #: ../inc/actions.php:694
 msgid "Missing id of answer"
-msgstr "Saknas id svars"
+msgstr "Svaret saknar id."
 
 #: ../inc/actions.php:837 ../inc/actions.php:940
 msgid "Publish"
@@ -600,7 +599,7 @@ msgstr "Endast Författare och administratör kan se"
 
 #: ../inc/actions.php:869 ../inc/actions.php:1596
 msgid "Hello, Are you cheating huh?"
-msgstr "Hej, Är du fusk va?"
+msgstr "Hej, fuskar du?"
 
 #: ../inc/actions.php:877
 msgid "The question is missing"
@@ -616,11 +615,11 @@ msgstr "Du kan inte posta kommentarer"
 
 #: ../inc/actions.php:984
 msgid "Missing email information"
-msgstr "Missing e-postinformation"
+msgstr "E-postinformation saknas"
 
 #: ../inc/actions.php:989
 msgid "Missing name information"
-msgstr "Saknas namn uppgifter"
+msgstr "Namnuppgifter saknas."
 
 #: ../inc/actions.php:1251
 msgid "Choose as the best answer"
@@ -628,7 +627,7 @@ msgstr "Välj som det bästa svaret"
 
 #: ../inc/actions.php:1447 ../inc/actions.php:1471
 msgid "Invalid Post"
-msgstr "Ogiltigt Post"
+msgstr "Ogiltigt inlägg"
 
 #: ../inc/actions.php:1566
 msgid "Sticky Questions"
@@ -636,11 +635,11 @@ msgstr "Självhäftande Frågor"
 
 #: ../inc/actions.php:1602
 msgid "Question is not valid"
-msgstr "Fråga är ogiltig"
+msgstr "Frågan är ogiltig"
 
 #: ../inc/actions.php:1623
 msgid "Delete Action was failed"
-msgstr "Radera åtgärd blev misslyckats"
+msgstr "Radera-aktionen misslyckades"
 
 #: ../inc/actions.php:1628
 msgid "You do not have permission to delete this question"
@@ -661,12 +660,12 @@ msgstr "Läs mer"
 #: ../inc/class-walker-category.php:20 ../inc/class-walker-tag-dropdown.php:19
 #, php-format
 msgid "View all posts filed under %s"
-msgstr "Visa alla inlägg arkiverat %s"
+msgstr "Visa alla inlägg arkiverat som %s"
 
 #: ../inc/class-walker-category.php:35 ../inc/class-walker-tag-dropdown.php:34
 #, php-format
 msgid "Feed for all posts filed under %s"
-msgstr "Foder för alla inlägg arkiverat %s"
+msgstr "Feed för alla inlägg arkiverat som %s"
 
 #: ../inc/contextual-helper.php:47
 msgid "Overview"
@@ -674,7 +673,7 @@ msgstr "Översikt"
 
 #: ../inc/contextual-helper.php:48
 msgid "DW Question Answer Plugin"
-msgstr "DW Fråga Svar Plugin"
+msgstr "DW Frågor&Svar-Plugin"
 
 #: ../inc/contextual-helper.php:49
 msgid ""
@@ -780,7 +779,7 @@ msgstr "Status"
 #: ../inc/metaboxes.php:46 ../inc/status.php:278
 #: ../inc/templates/default/question-list.php:17
 msgid "Open"
-msgstr "Öppen"
+msgstr "Öppna"
 
 #: ../inc/metaboxes.php:47 ../inc/status.php:265
 #: ../inc/template-functions.php:693
@@ -797,7 +796,7 @@ msgstr "Lösta"
 #: ../inc/metaboxes.php:49 ../inc/status.php:268
 #: ../inc/template-functions.php:683
 msgid "Re-Open"
-msgstr "Åter Öppna"
+msgstr "Öppna igen"
 
 #: ../inc/metaboxes.php:50 ../inc/status.php:271
 #: ../inc/template-functions.php:688
@@ -811,27 +810,27 @@ msgstr "Sticky"
 
 #: ../inc/metaboxes.php:60
 msgid "Pin question to top of archive page."
-msgstr "Pin fråga till toppen av arkivsida."
+msgstr "Fäst frågan till toppen av arkivsidan."
 
 #: ../inc/notification.php:27
 msgid "A new question was posted on {site_name}"
-msgstr "En ny fråga var postat på {SITE_NAME}"
+msgstr "En ny fråga las upp på {SITE_NAME}"
 
 #: ../inc/notification.php:118
 msgid "A new answer for \"{question_title}\" was posted on {site_name}"
-msgstr "Ett nytt svar för \"{question_title}\" var postat på {site_name}"
+msgstr "Ett nytt svar för \"{question_title}\" las upp på {site_name}"
 
 #: ../inc/notification.php:186
 msgid "You have a new answer for your followed question"
-msgstr "Du har ett nytt svar för ditt följt frågan"
+msgstr "Du har ett nytt svar frågan du följer"
 
 #: ../inc/notification.php:282 ../inc/notification.php:328
 msgid "[{site_name}] You have a new comment for question {question_title}"
-msgstr "[{SITE_NAME}] Du har en ny kommentar till fråga {question_title}"
+msgstr "[{SITE_NAME}] Du har en ny kommentar på frågan {question_title}"
 
 #: ../inc/notification.php:287 ../inc/notification.php:333
 msgid "[{site_name}] You have a new comment for answer"
-msgstr "[{SITE_NAME}] Du har en ny kommentar till svar"
+msgstr "[{SITE_NAME}] Du har en ny kommentar på svaret"
 
 #: ../inc/pointer-helper.php:57
 msgid "How to use DW Question Answer"
@@ -843,7 +842,7 @@ msgstr "Dokument, Support Från DesignWall (hjälp)"
 
 #: ../inc/pointer-helper.php:67
 msgid "Config your support channel"
-msgstr "Config din supportkanal"
+msgstr "Konfigurera din supportkanal"
 
 #: ../inc/pointer-helper.php:68
 msgid "Change comment settings, and create the Submit question page."
@@ -859,7 +858,7 @@ msgstr "Välj Arkiv Fråga sidan"
 
 #: ../inc/settings.php:25
 msgid "A page where displays all questions"
-msgstr "En sida där visar alla frågor"
+msgstr "En sida som visar alla frågor"
 
 #: ../inc/settings.php:32
 msgid "hours"
@@ -868,7 +867,7 @@ msgstr "timmar"
 #: ../inc/settings.php:32
 msgid ""
 "A period of time in which new questions are highlighted and marked as New"
-msgstr "En tid där nya frågor lyfts fram och markeras som nya"
+msgstr "En period där nya frågor lyfts fram och markeras som nya"
 
 #: ../inc/settings.php:37
 msgid "days"
@@ -901,7 +900,7 @@ msgid ""
 "404 page will be used."
 msgstr ""
 "Denna sida kommer att omdirigeras när användare utan auktoritet klicka på en "
-"privat fråga. Du kan anpassa budskapet på denna sida in.If inte, kommer en "
+"privat fråga. Du kan anpassa budskapet på denna sida. Om inte, kommer en "
 "standard 404 sida användas."
 
 #: ../inc/settings.php:87
@@ -915,19 +914,19 @@ msgstr ""
 
 #: ../inc/settings.php:126
 msgid "Enable notification for new question"
-msgstr "Aktivera anmälan om ny fråga"
+msgstr "Aktivera anmälan för nya frågor"
 
 #: ../inc/settings.php:131 ../inc/settings.php:165 ../inc/settings.php:200
 #: ../inc/settings.php:235 ../inc/settings.php:270 ../inc/settings.php:305
 #: ../inc/settings.php:340
 msgid "Email subject"
-msgstr "Epost ämne"
+msgstr "Rubrik för Epost"
 
 #: ../inc/settings.php:136 ../inc/settings.php:170 ../inc/settings.php:205
 #: ../inc/settings.php:240 ../inc/settings.php:275 ../inc/settings.php:310
 #: ../inc/settings.php:345
 msgid "Email Content"
-msgstr "E Innehåll"
+msgstr "Epost-innehåll"
 
 #: ../inc/settings.php:160
 msgid "Enable notification for new answer"
